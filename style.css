@@ -34,7 +34,7 @@ p{
     font-size: 2rem;
 }
 #reset-btn{
-    margin-top: 0.5vmin;
+    /* margin-top: 0vmin; */
     padding: 1rem;
     font-size: 1.25rem;
     color: #89023E;
